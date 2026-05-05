@@ -7,6 +7,7 @@ cask "player" do
   desc "View and inspect Stamp recordings"
   homepage "https://stamp.xyz/"
 
+  depends_on arch: :arm64
   depends_on macos: ">= :sequoia"
 
   app "Stamp Player.app"
