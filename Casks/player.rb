@@ -1,8 +1,8 @@
 cask "player" do
-  version "1.0.0,142"
-  sha256 "df105084aa73ac58b8a7dbff9c15ac2c3386c017fba5cabe2f8425376f5afb73"
+  version "1.0.0,143"
+  sha256 "f1214c08408745df742ff38929dffc34a0ea0763143f1cb6efabb7f51c590dbe"
 
-  url "https://github.com/artifice-industries/homebrew-stamp/releases/download/v1.0.0-142/StampPlayer-1.0.0.dmg"
+  url "https://github.com/artifice-industries/homebrew-stamp/releases/download/v1.0.0-143/StampPlayer-1.0.0.dmg"
   name "Stamp Player"
   desc "View and inspect Stamp recordings"
   homepage "https://stamp.xyz/"
