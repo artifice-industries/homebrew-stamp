@@ -1,11 +1,12 @@
 <p align="center">
-    <img src="https://github.com/artifice-industries/Stamp-Tub/blob/TUB-%2333/Stamp%20macOS/Supporting%20Files/Assets.xcassets/AppIcon.appiconset/icon_512x512.png?raw=true" width="200" alt="Stamp"/>
+    <img src="https://stamp.xyz/icons/player.png" width="200" alt="Stamp Player"/>
 </p>
 
 <h1 align="center">Stamp Homebrew Tap</h1>
 
 <p align="center">
     Install Stamp Player from the command line, and keep it updated alongside everything else in your Homebrew toolbox.
+    Stamp Player opens the <a href="https://stamp.xyz/notes/">live event notes</a> captured with Stamp, beside the video they were written against.
 </p>
 
 ---
@@ -21,7 +22,7 @@ brew install --cask artifice-industries/stamp/player
 
 | App | Cask | Description |
 |-----|------|-------------|
-| [Stamp Player](https://stamp.xyz) | [`Casks/player.rb`](Casks/player.rb) | Review time-stamped notes recorded with Stamp. |
+| [Stamp Player](https://stamp.xyz/player/) | [`Casks/player.rb`](Casks/player.rb) | Review [live event notes](https://stamp.xyz/notes/) captured with Stamp, each stamped to the moment it was written. |
 
 ## Update
 
@@ -40,7 +41,7 @@ brew untap artifice-industries/stamp
 
 The Homebrew build is signed with a Developer ID certificate and notarised by Apple. It is functionally equivalent to the Mac App Store build of Stamp Player but distributed independently — it will not share data with an App Store install of Stamp on the same machine.
 
-For the Mac App Store version, see [Stamp Player on the App Store](https://stamp.xyz).
+For the Mac App Store version, see [Stamp Player on the App Store](https://apps.apple.com/app/id6748158345).
 
 ## Documentation
 
